@@ -18,3 +18,9 @@ Jeśli gracz posiada asa i figurę to uznajemy, żę posiada 21.
 Jeśli gracz posiada na ręcę trzy karty np.
 Króla, sztóstkę i asa.. to asa liczymy jako 1 punkt.
 Czyli suma oczek wynosi 17 (10 + 6 + 1)
+
+### Jak uruchomić grę?
+Pobierz repozytorium i uruchom main.py
+
+### Wykorzystane technologie:
+Python
