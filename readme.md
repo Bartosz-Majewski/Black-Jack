@@ -4,7 +4,7 @@ Black Jack to gra karciana, w której gracz mierzy się z krupierem. Każda kart
 
 ### Gra się rozpoczyna
 Krupier tasuje karty, a następnie wydaje dwie karty graczowi i dwie sobie. Gracz widzi tylko swoje karty,
-Garcz podejmuje decyzję czy bierze kolejną kartę od krupiera czy nie.
+Gracz podejmuje decyzję czy bierze kolejną kartę od krupiera czy nie.
 
 ### Kiedy gra się kończy?
 Koniec nastąpi gdy gracz spasuje lub wtedy kiedy suma jego kart przekroczy 21 punktów.
